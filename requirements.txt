@@ -1,0 +1,11 @@
+selenium
+pytest
+pytest-xdist
+pytest-html
+allure-pytest
+python-dotenv
+faker
+requests
+sqlalchemy
+psycopg2-binary
+ruff
